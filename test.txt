@@ -1,2 +1,5 @@
+D
 My first git repository, fro sure
+My first git repository, really
+>>>>>>> conflict-branch
 EditChanges from feature branch
